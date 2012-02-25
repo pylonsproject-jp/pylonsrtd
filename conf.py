@@ -90,8 +90,8 @@ exclude_patterns = ['_themes/README.rst']
 
 # Add and use Pylons theme
 sys.path.append(os.path.abspath('_themes'))
-html_theme_path = ['_themes']
-html_theme = 'pylons'
+html_theme_path = ['_themes', 'customtheme']
+html_theme = 'doc-ja'
 html_theme_options = dict(github_url='https://github.com/Pylons/pylonsrtd')
 
 # The style sheet to use for HTML and HTML Help pages. A file of that name
