@@ -1,13 +1,17 @@
 {% extends "pylons/layout.html" %}
 
+{%- block extrahead %}
+{{ super() }}
+<script type="text/javascript" src="{{ pathto('_static/jp.js', 1) }}"></script>
+{% endblock %}
+
 {% block header %}
-<div style="position: fixed; width: 100%; top: 0px; right: 0px">
+<div class="banner" style="position: fixed; width: 100%; top: 0px; right: 0px">
 <div style="height: 20px; padding: 5px; color: #000; background-color: #DDD; text-align: right">
-このドキュメントは <a href="http://docs.pylonsproject.org/en/latest/index.html">公式ドキュメント</a> の翻訳です。
+このドキュメントは <a href="http://docs.pylonsproject.org/en/latest/">公式ドキュメント</a> の翻訳です。
 ソースコードは <a href="https://github.com/pylonsproject-jp/pylonsrtd">Github</a> にあります。
 </div>
 </div>
 <div style="height: 30px; background-color: #DDD"></div>
 {{ super() }}
 {% endblock %}
-
