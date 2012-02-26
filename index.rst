@@ -1,4 +1,6 @@
-The Pylons Project Documentation
+.. The Pylons Project Documentation
+
+Pylons プロジェクトドキュメント
 ================================
 
 .. The Pylons Project maintains the Pyramid web framework as well as additional
@@ -10,8 +12,10 @@ Pylons プロジェクトでは、 Pyramid Web フレームワークとその他
 ここは、それらすべてのプロジェクトのためのドキュメンテーション用のホームです。
 
 
-Documentation Index
--------------------
+.. Documentation Index
+
+ドキュメントインデックス
+------------------------
 
 .. Documentation sources for subprojects within the Pylons Project are listed
 .. below.
@@ -29,8 +33,10 @@ Pylons プロジェクト内のサブプロジェクトのためのドキュメ�
 
 .. _support-desc:
 
-Support
--------
+.. Support
+
+サポート
+--------
 
 .. Development questions related to Pylons projects can be discussed on the 
 .. `pylons-discuss mail list <http://groups.google.com/group/pylons-discuss/>`_.
@@ -46,7 +52,9 @@ IRC 上では、 Pylons 開発者なら誰でも `Freenode IRC
 <http://freenode.net/>`_ ネットワーク上の #pylons チャンネルが利用可能です。
 
 
-.. topic:: Using Support Wisely
+.. Using Support Wisely
+
+.. topic:: サポートの賢い使い方
 
    .. Before asking a technical question on the maillist(s) or in IRC, please
    .. make sure to try the following things (paraphrased from `Before You Ask
@@ -114,8 +122,10 @@ Pylons 1 から来た Pylons ユーザあるいは repoze.bfg ユーザにとっ
    faq/pylonsproject
    faq/pyramid
 
-Podcasts
---------
+.. Podcasts
+
+ポッドキャスト
+--------------
 
 .. Subscribe to the Pylons Podcasts.  Pylons Podcasts are a series of audio
 .. podcasts from developers of the Pylons Project.  You can either subscribe in
@@ -138,8 +148,10 @@ Pylons プロジェクトの開発者からの一連のオーディオ・ポッ�
    podcasts
 
 
-Promote
--------
+.. Promote
+
+プロモーション
+--------------
 
 .. If you want to promote The Pylons Project and it's related technologies or your
 .. own work made with our tools.
@@ -155,8 +167,10 @@ Pylons プロジェクトと関連技術、あるいはあなた自身の仕事�
     promote/badges
     promote/desktops
 
-Contributing
-------------
+.. Contributing
+
+プロジェクトへの貢献
+--------------------
 
 .. The Pylons Project welcomes contributors.  Please read the following
 .. documentation about how the Pylons Project functions, coding styles expected
@@ -179,8 +193,10 @@ Pylons プロジェクトは貢献者を歓迎します。 Pylons プロジェ�
    community/addons-devenvs
 
 
-Denials
--------
+.. Denials
+
+否定声明
+--------
 
 .. Don't worry, none of these are actually true. We swear!
 
