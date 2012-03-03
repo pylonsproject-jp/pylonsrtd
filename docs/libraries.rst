@@ -11,20 +11,20 @@ Pyramid add-ons.
 
   - Version Control: https://github.com/Pylons/webob
 
-* `colander </projects/colander/en/latest/>`_,
+* `colander <http://docs.pylonsproject.org/projects/colander/en/latest/>`_,
   serialization/deserialization/validation library.
 
   - Maintained by:  Chris McDonough
 
   - Version Control: https://github.com/Pylons/colander
 
-* `deform </projects/deform/en/latest/>`_: an HTML form library.
+* `deform <http://docs.pylonsproject.org/projects/deform/en/latest/>`_: an HTML form library.
 
   - Maintained by:  Chris McDonough
 
   - Version Control: https://github.com/Pylons/deform
 
-* `peppercorn </projects/peppercorn/en/latest/>`_, A library for converting a token
+* `peppercorn <http://docs.pylonsproject.org/projects/peppercorn/en/latest/>`_, A library for converting a token
   stream into a data structure comprised of sequences, mappings, and scalars,
   developed primarily for converting HTTP form post data into a richer data
   structure.
@@ -33,21 +33,21 @@ Pyramid add-ons.
 
   - Version Control: https://github.com/Pylons/peppercorn
 
-* `translationstring </projects/translationstring/en/latest/>`_, an
+* `translationstring <http://docs.pylonsproject.org/projects/translationstring/en/latest/>`_, an
   internationalization library used by various Pylons Project software.
 
   - Maintained by:  Chris McDonough
 
   - Version Control: https://github.com/Pylons/translationstring
 
-* `venusian </projects/venusian/en/latest/>`_, a library useful for
+* `venusian <http://docs.pylonsproject.org/projects/venusian/en/latest/>`_, a library useful for
   framework authors to defer decorator actions.
 
   - Maintained by:  Chris McDonough
 
   - Version Control: https://github.com/Pylons/venusian
 
-* `webhelpers </projects/webhelpers/en/latest/>`_, a library for
+* `webhelpers <http://docs.pylonsproject.org/projects/webhelpers/en/latest/>`_, a library for
   python web helpers.
 
   - Maintained by:  Ben Bangert, Mike Orr
