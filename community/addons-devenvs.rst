@@ -10,7 +10,7 @@ environments". If you would like your add-on to be considered for inclusion
 into the `Pyramid Add-Ons
 <http://docs.pylonsproject.org/docs/pyramid.html#pyramid-add-ons>`_ or
 `Development Environments
-<https://docs.pylonsproject.org/docs/pyramid.html#pyramid-development-environment-documentation>`_
+<http://docs.pylonsproject.org/docs/pyramid.html#pyramid-development-environment-documentation>`_
 sections of the Pylons Project web site, you should attempt to adhere to
 these guidelines.
 
@@ -25,6 +25,12 @@ of opinions.  These are referred to as "development environments".
 
 Below, we talk about what makes a good add-on and what makes a good
 development environment.
+
+Contributing Addons
+----------------------
+Pyramid provides a repository that allows everyone to share add-ons.
+
+Please refer to the `community docs <https://github.com/pyramid-collective/pyramid-collective.github.com>`_
 
 Making Good Add-Ons
 -------------------
@@ -72,7 +78,7 @@ Making Good Development Environments
 If you are creating a higher-level framework atop the Pyramid codebase that
 contains "template" code (skeleton code rendered by a user via ``paster
 create -t foo``), for the purposes of uniformity with other "development
-environment" packages, we offer some guidelines below. 
+environment" packages, we offer some guidelines below.
 
 * It should not be named with a ``pyramid_`` prefix.  For example, instead
   of ``pyramid_foo`` it should just be named ``foo``.  The ``pryamid_``
