@@ -102,8 +102,12 @@ if 'sphinx-build' in ' '.join(sys.argv): # protect against dumb importers
 
 # Add and use Pylons theme
 sys.path.append(os.path.abspath('_themes'))
-html_theme_path = ['_themes', 'customtheme']
-html_theme = 'doc-ja'
+html_theme_path = ['_themes']
+html_theme = 'pylons-ja'
+html_theme_options = dict(
+    original_url='http://docs.pylonsproject.org/en/latest/',
+    our_github_url='https://github.com/pylonsproject-jp/pylonsrtd',
+    )
 # html_theme_options = dict(github_url='https://github.com/Pylons/pylonsrtd')
 
 # The style sheet to use for HTML and HTML Help pages. A file of that name
