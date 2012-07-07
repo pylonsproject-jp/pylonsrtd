@@ -153,7 +153,7 @@ Pyramid は以下の点を除き repoze.bfg *そのもの* です:
 
 既存の repoze.bfg アプリケーションを Pyramid へ移植するためには、変更は
 やはり必要ですが、ほとんどの移植プロセスを自動化することは可能です。詳細は
-http://docs.pylonsproject.org/projects/pyramid/dev/tutorials/bfg/index.html
+http://pylons-ja.readthedocs.org/projects/pyramid-doc-ja/en/doc-ja/tutorials/bfg/index.html
 を参照してください。
 
 

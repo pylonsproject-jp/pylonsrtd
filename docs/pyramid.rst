@@ -30,7 +30,7 @@ Getting Started
 * `FAQ <../faq/pyramid.html>`_ をチェックしてください。
 
 * Pyramid をセットアップする方法が知りたければ、 `インストールガイド
-  </projects/pyramid-doc-ja/en/doc-ja/narr/install.html>`_ を試してみてください。
+  <http://pylons-ja.readthedocs.org/projects/pyramid-doc-ja/en/doc-ja/narr/install.html>`_ を試してみてください。
 
 * Pyramid ウェブアプリケーションがどのように作られるかの感触を得るためには、
   `単一ファイルタスク・チュートリアル
@@ -38,7 +38,7 @@ Getting Started
   (英語) を見てください。
 
 * 実例による学習が好みですか? `Wiki チュートリアル
-  </projects/pyramid-doc-ja/en/doc-ja/tutorials/wiki2/index.html>`_
+  <http://pylons-ja.readthedocs.org/projects/pyramid-doc-ja/en/doc-ja/tutorials/wiki2/index.html>`_
   をやってみましょう。
 
 * 助けが必要?  :ref:`support-desc` を見てください。
@@ -80,7 +80,7 @@ Getting Started
 ..   <http://docs.pylonsproject.org/projects/pyramid_cookbook/en/latest/>`_ presents
 ..   topical, practical usages of Pyramid.  The cookbook is unfinished.
 
-* `Pyramid documentation 1.3 <http://docs.pylonsproject.org/projects/pyramid/en/1.3-branch/>`_ (英語) -
+* `Pyramid ドキュメント 1.3 <http://pylons-ja.readthedocs.org/projects/pyramid-doc-ja/en/doc-ja/>`_ -
   Pyramid のマニュアルと API ドキュメント (最新の安定リリース)。
 
 * `Pyramid documentation 1.2 <http://docs.pylonsproject.org/projects/pyramid/en/1.2-branch/>`_ (英語) -
@@ -92,7 +92,7 @@ Getting Started
 * `Pyramid documentation 1.0 <http://docs.pylonsproject.org/projects/pyramid/en/1.0-branch/>`_ (英語) -
   Pyramid バージョン 1.0 のマニュアルと API ドキュメント。
 
-* `Pyramid 開発版ドキュメント <http://pyramid-doc-ja.readthedocs.org/en/latest/>`_ -
+* `Pyramid development documentation <http://docs.pylonsproject.org/projects/pyramid/en/latest/>`_ (英語) -
   Pyramid のマニュアルと API ドキュメント (開発中のバージョン)。
 
 * `The Pyramid Tutorials
@@ -317,7 +317,7 @@ Pylons プロジェクトによって公式にサポートされ、ドキュメ�
   - バージョン管理: https://github.com/Pylons/pyramid_zcml
 
 
-.. * `pyramid_zodbconn <http://docs.pylonsproject.org/projects/pyramid_zodbconn/en/latest/>`_: ZODB Database
+.. * `pyramid_zodbconn </projects/pyramid_zodbconn/en/latest/>`_: ZODB Database
 ..   connection management for Pyramid.
 
 ..   - Mantained by: Chris McDonough, Chris Rossi
@@ -325,7 +325,7 @@ Pylons プロジェクトによって公式にサポートされ、ドキュメ�
 ..   - Version Control:  https://github.com/Pylons/pyramid_zodbconn
 
 
-* `pyramid_zodbconn </projects/pyramid_zodbconn/en/latest/>`_ (英語):
+* `pyramid_zodbconn <http://docs.pylonsproject.org/projects/pyramid_zodbconn/en/latest/>`_ (英語):
   Pyramid 用の ZODB データベースコネクション管理。
 
   - メンテナー: Chris McDonough, Chris Rossi
