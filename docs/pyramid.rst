@@ -30,7 +30,7 @@ Getting Started
 * `FAQ <../faq/pyramid.html>`_ をチェックしてください。
 
 * Pyramid をセットアップする方法が知りたければ、 `インストールガイド
-  <http://pylons-ja.readthedocs.org/projects/pyramid-doc-ja/en/doc-ja/narr/install.html>`_ を試してみてください。
+  <http://docs.pylonsproject.jp/projects/pyramid-doc-ja/en/doc-ja/narr/install.html>`_ を試してみてください。
 
 * Pyramid ウェブアプリケーションがどのように作られるかの感触を得るためには、
   `単一ファイルタスク・チュートリアル
@@ -38,7 +38,7 @@ Getting Started
   (英語) を見てください。
 
 * 実例による学習が好みですか? `Wiki チュートリアル
-  <http://pylons-ja.readthedocs.org/projects/pyramid-doc-ja/en/doc-ja/tutorials/wiki2/index.html>`_
+  <http://docs.pylonsproject.jp/projects/pyramid-doc-ja/en/doc-ja/tutorials/wiki2/index.html>`_
   をやってみましょう。
 
 * 助けが必要?  :ref:`support-desc` を見てください。
@@ -80,7 +80,7 @@ Getting Started
 ..   <http://docs.pylonsproject.org/projects/pyramid_cookbook/en/latest/>`_ presents
 ..   topical, practical usages of Pyramid.  The cookbook is unfinished.
 
-* `Pyramid ドキュメント 1.3 <http://pylons-ja.readthedocs.org/projects/pyramid-doc-ja/en/doc-ja/>`_ -
+* `Pyramid ドキュメント 1.3 <http://docs.pylonsproject.jp/projects/pyramid-doc-ja/en/doc-ja/>`_ -
   Pyramid のマニュアルと API ドキュメント (最新の安定リリース)。
 
 * `Pyramid documentation 1.2 <http://docs.pylonsproject.org/projects/pyramid/en/1.2-branch/>`_ (英語) -

@@ -153,7 +153,7 @@ Pyramid は以下の点を除き repoze.bfg *そのもの* です:
 
 既存の repoze.bfg アプリケーションを Pyramid へ移植するためには、変更は
 やはり必要ですが、ほとんどの移植プロセスを自動化することは可能です。詳細は
-http://pylons-ja.readthedocs.org/projects/pyramid-doc-ja/en/doc-ja/tutorials/bfg/index.html
+http://docs.pylonsproject.jp/projects/pyramid-doc-ja/en/doc-ja/tutorials/bfg/index.html
 を参照してください。
 
 
@@ -181,7 +181,7 @@ Pyramid は他の多くの Python ウェブフレームワークとはどこが�
 
 .. See http://docs.pylonsproject.org/projects/pyramid/en/1.3-branch/narr/introduction.html#what-makes-pyramid-unique
 
-http://pylons-ja.readthedocs.org/projects/pyramid-doc-ja/en/doc-ja/narr/introduction.html#what-makes-pyramid-unique
+http://docs.pylonsproject.jp/projects/pyramid-doc-ja/en/doc-ja/narr/introduction.html#what-makes-pyramid-unique
 を見てください。
 
 .. Is a port to Python 3 planned? When?
