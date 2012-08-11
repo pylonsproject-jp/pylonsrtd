@@ -15,6 +15,9 @@ Getting Started
 
 .. * Check out  our `FAQ <../faq/pyramid.html>`_.
 
+.. * To see a minimal Pyramid web application and how to run it, checkout
+..   `creating your first Pyramid application </projects/pyramid/en/1.3-branch/narr/firstapp.html>`_.
+
 .. * For help getting Pyramid set up, try the `install guide
 ..   </projects/pyramid/en/1.3-branch/narr/install.html>`_.
 
@@ -28,6 +31,9 @@ Getting Started
 
 
 * `FAQ <../faq/pyramid.html>`_ をチェックしてください。
+
+* 最小の Pyramid ウェブアプリケーションと、それを実行する方法を知るために、
+  `はじめての Pyramid アプリケーションの作成 <http://docs.pylonsproject.jp/projects/pyramid-doc-ja/en/latest/narr/firstapp.html>`_ (英語) をチェックしてください。
 
 * Pyramid をセットアップする方法が知りたければ、 `インストールガイド
   <http://docs.pylonsproject.jp/projects/pyramid-doc-ja/en/latest/narr/install.html>`_ を試してみてください。
