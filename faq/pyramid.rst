@@ -55,11 +55,11 @@ Pyramid 1.0 は2011年1月31日にリリースされました。
 .. http://docs.pylonsproject.org/projects/pyramid_cookbook/en/latest/pylons/index.html
 
 
-Pylons から Pyramid への移行ガイドの草案のリリースは
+Pylons から Pyramid への移行ガイドのドラフトリリースは
 https://bytebucket.org/sluggo/pyramid-docs/wiki/html/migration.html で
 利用可能です。
 Pylons ユーザのための Pyramid ガイドは
-http://docs.pylonsproject.org/projects/pyramid_cookbook/en/latest/pylons/index.html
+http://docs.pylonsproject.jp/projects/pyramid_cookbook-ja/en/latest/pylons/index.html
 で利用可能です。
 
 

@@ -106,7 +106,7 @@ Getting Started
   Pyramid のチュートリアルが集約されています。
 
 * `The Pyramid Cookbook
-  <http://docs.pylonsproject.org/projects/pyramid_cookbook/en/latest/>`_ (英語) は
+  <http://docs.pylonsproject.jp/projects/pyramid_cookbook-ja/en/latest/>`_ は
   Pyramid の実用的な利用方法をトピック別にまとめたものです。
   cookbook は未完成です。
 
