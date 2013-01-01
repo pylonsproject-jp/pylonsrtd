@@ -13,16 +13,16 @@ Getting Started
 のリソースがあります:
 
 
-.. * Check out  our `FAQ <../faq/pyramid.html>`_.
+.. * Check out  our `FAQ </en/latest/faq/pyramid.html>`_.
 
-.. * To see a minimal Pyramid web application and how to run it, checkout
-..   `creating your first Pyramid application </projects/pyramid/en/1.3-branch/narr/firstapp.html>`_.
+.. * To see a minimal Pyramid web application, check out `creating your first
+..   Pyramid application </projects/pyramid/en/1.3-branch/narr/firstapp.html>`_.
 
 .. * For help getting Pyramid set up, try the `install guide
 ..   </projects/pyramid/en/1.3-branch/narr/install.html>`_.
 
 .. * To get the feel of how a Pyramid web application is created, go to the 
-..   `single file tasks tutorial <http://docs.pylonsproject.org/projects/pyramid_tutorials/en/latest/single_file_tasks/single_file_tasks.html>`_ page. 
+..   `single file tasks tutorial </projects/pyramid_tutorials/en/latest/single_file_tasks/single_file_tasks.html>`_ page. 
 
 .. * Like learning by example? Check out to the `wiki tutorial
 ..   </projects/pyramid/en/1.3-branch/tutorials/wiki2/index.html>`_.
@@ -30,9 +30,9 @@ Getting Started
 .. * Need help?  See :ref:`support-desc`.
 
 
-* `FAQ <../faq/pyramid.html>`_ をチェックしてください。
+* `FAQ </en/latest/faq/pyramid.html>`_ をチェックしてください。
 
-* 最小の Pyramid ウェブアプリケーションと、それを実行する方法を知るために、
+* 最小の Pyramid ウェブアプリケーションを知るために、
   `はじめての Pyramid アプリケーションの作成 <http://docs.pylonsproject.jp/projects/pyramid-doc-ja/en/latest/narr/firstapp.html>`_ (英語) をチェックしてください。
 
 * Pyramid をセットアップする方法が知りたければ、 `インストールガイド
@@ -55,39 +55,47 @@ Getting Started
 主要ドキュメント
 ------------------
 
-.. * `Pyramid documentation 1.3 <http://docs.pylonsproject.org/projects/pyramid/en/1.3-branch/>`_ (`1.3 PDF
+.. * `Pyramid documentation 1.4 </projects/pyramid/en/1.4-branch/>`_ (`1.4 PDF
+..   <http://media.readthedocs.org/pdf/pyramid/1.4-branch/pyramid.pdf>`_) (`1.4 Epub
+..   <http://media.readthedocs.org/epub/pyramid/1.4-branch/pyramid.epub>`_) - narrative and API
+..   documentation for Pyramid's current alpha/beta release.
+
+.. * `Pyramid documentation 1.3 </projects/pyramid/en/1.3-branch/>`_ (`1.3 PDF
 ..   <http://media.readthedocs.org/pdf/pyramid/1.3-branch/pyramid.pdf>`_) (`1.3 Epub
 ..   <http://media.readthedocs.org/epub/pyramid/1.3-branch/pyramid.epub>`_) - narrative and API
 ..   documentation for Pyramid's current stable release.
 
-.. * `Pyramid documentation 1.2 <http://docs.pylonsproject.org/projects/pyramid/en/1.2-branch/>`_ (`1.2 PDF
+.. * `Pyramid documentation 1.2 </projects/pyramid/en/1.2-branch/>`_ (`1.2 PDF
 ..   <http://media.readthedocs.org/pdf/pyramid/1.2-branch/pyramid.pdf>`_) (`1.2 Epub
 ..   <http://media.readthedocs.org/epub/pyramid/1.2-branch/pyramid.epub>`_) - narrative and API
 ..   documentation for Pyramid's 1.2 version.
 
-.. * `Pyramid documentation 1.1 <http://docs.pylonsproject.org/projects/pyramid/en/1.1-branch/>`_ (`1.1 PDF
+.. * `Pyramid documentation 1.1 </projects/pyramid/en/1.1-branch/>`_ (`1.1 PDF
 ..   <http://media.readthedocs.org/pdf/pyramid/1.1-branch/pyramid.pdf>`_) (`1.1 Epub
 ..   <http://media.readthedocs.org/epub/pyramid/1.1-branch/pyramid.epub>`_) - narrative and API
 ..   documentation for Pyramid's 1.1 version.
 
-.. * `Pyramid documentation 1.0 <http://docs.pylonsproject.org/projects/pyramid/en/1.0-branch/>`_ (`1.0 PDF
+.. * `Pyramid documentation 1.0 </projects/pyramid/en/1.0-branch/>`_ (`1.0 PDF
 ..   <http://media.readthedocs.org/pdf/pyramid/1.0-branch/pyramid.pdf>`_) (`1.0 Epub
 ..   <http://media.readthedocs.org/epub/pyramid/1.0-branch/pyramid.epub>`_) - narrative and API
 ..   documentation for Pyramid's 1.0 version.
 
-.. * `Pyramid development documentation <http://docs.pylonsproject.org/projects/pyramid/en/latest/>`_ - narrative
+.. * `Pyramid development documentation </projects/pyramid/en/master/>`_ - narrative
 ..   and API documentation for Pyramid's unreleased in-development version.
 
 .. * `The Pyramid Tutorials
-..   <http://docs.pylonsproject.org/projects/pyramid_tutorials/en/latest/>`_ presents
+..   </projects/pyramid_tutorials/en/latest/>`_ presents
 ..   tutorial resources for Pyramid.
 
 .. * `The Pyramid Cookbook
-..   <http://docs.pylonsproject.org/projects/pyramid_cookbook/en/latest/>`_ presents
+..   </projects/pyramid_cookbook/en/latest/>`_ presents
 ..   topical, practical usages of Pyramid.  The cookbook is unfinished.
 
-* `Pyramid ドキュメント 1.3 <http://docs.pylonsproject.jp/projects/pyramid-doc-ja/en/latest/>`_ -
-  Pyramid のマニュアルと API ドキュメント (最新の安定リリース)。
+* `Pyramid ドキュメント 1.4 </projects/pyramid-doc-ja/en/1.4-branch/>`_ -
+  Pyramid のマニュアルと API ドキュメント (最新の alpha/beta リリース)。
+
+* `Pyramid ドキュメント 1.3 </projects/pyramid-doc-ja/en/1.3-branch/>`_ -
+  Pyramid のマニュアルと API ドキュメント (現在の安定リリース)。
 
 * `Pyramid documentation 1.2 <http://docs.pylonsproject.org/projects/pyramid/en/1.2-branch/>`_ (英語) -
   Pyramid バージョン 1.2 のマニュアルと API ドキュメント。
@@ -98,7 +106,7 @@ Getting Started
 * `Pyramid documentation 1.0 <http://docs.pylonsproject.org/projects/pyramid/en/1.0-branch/>`_ (英語) -
   Pyramid バージョン 1.0 のマニュアルと API ドキュメント。
 
-* `Pyramid development documentation <http://docs.pylonsproject.org/projects/pyramid/en/latest/>`_ (英語) -
+* `Pyramid development documentation <http://docs.pylonsproject.org/projects/pyramid/en/master/>`_ (英語) -
   Pyramid のマニュアルと API ドキュメント (開発中のバージョン)。
 
 * `The Pyramid Tutorials
@@ -106,7 +114,7 @@ Getting Started
   Pyramid のチュートリアルが集約されています。
 
 * `The Pyramid Cookbook
-  <http://docs.pylonsproject.jp/projects/pyramid_cookbook-ja/en/latest/>`_ は
+  </projects/pyramid_cookbook-ja/en/latest/>`_ は
   Pyramid の実用的な利用方法をトピック別にまとめたものです。
   cookbook は未完成です。
 
@@ -125,7 +133,7 @@ Pylons プロジェクトによって公式にサポートされ、ドキュメ�
 公開されます。
 
 
-.. * `pyramid_beaker <http://docs.pylonsproject.org/projects/pyramid_beaker/en/latest/>`_: Beaker session backend
+.. * `pyramid_beaker </projects/pyramid_beaker/en/latest/>`_: Beaker session backend
 ..   plug-in.
 
 ..   - Maintained by: Ben Bangert, Chris McDonough
@@ -140,7 +148,7 @@ Pylons プロジェクトによって公式にサポートされ、ドキュメ�
   - バージョン管理: https://github.com/Pylons/pyramid_beaker
 
 
-.. * `pyramid_debugtoolbar <http://docs.pylonsproject.org/projects/pyramid_debugtoolbar/en/latest/>`_, an interactive
+.. * `pyramid_debugtoolbar </projects/pyramid_debugtoolbar/en/latest/>`_, an interactive
 ..   HTML debug toolbar for Pyramid.
 
 ..   - Maintained by:  Chris McDonough, Blaise Laflamme
@@ -155,7 +163,7 @@ Pylons プロジェクトによって公式にサポートされ、ドキュメ�
   - バージョン管理: https://github.com/Pylons/pyramid_debugtoolbar
 
 
-.. * `pyramid_exclog <http://docs.pylonsproject.org/projects/pyramid_exclog/en/latest/>`_, a package which logs
+.. * `pyramid_exclog </projects/pyramid_exclog/en/latest/>`_, a package which logs
 ..   exceptions from Pyramid applications.
 
 ..   - Maintained by:  Chris McDonough
@@ -170,7 +178,7 @@ Pylons プロジェクトによって公式にサポートされ、ドキュメ�
   - バージョン管理: https://github.com/Pylons/pyramid_exclog
 
 
-.. * `pyramid_handlers <http://docs.pylonsproject.org/projects/pyramid_handlers/en/latest/>`_: analogue of
+.. * `pyramid_handlers </projects/pyramid_handlers/en/latest/>`_: analogue of
 ..   Pylons-style "controllers" for Pyramid.
 
 ..   - Maintained by: Ben Bangert, Chris McDonough
@@ -185,7 +193,7 @@ Pylons プロジェクトによって公式にサポートされ、ドキュメ�
   - バージョン管理: https://github.com/Pylons/pyramid_handlers
 
 
-.. * `pyramid_jinja2 <http://docs.pylonsproject.org/projects/pyramid_jinja2/en/latest/>`_: `Jinja2
+.. * `pyramid_jinja2 </projects/pyramid_jinja2/en/latest/>`_: `Jinja2
 ..   <http://jinja.pocoo.org/>`_ template renderer for Pyramid
 
 ..   - Maintained by: Rocky Burt
@@ -200,7 +208,7 @@ Pylons プロジェクトによって公式にサポートされ、ドキュメ�
   - バージョン管理: https://github.com/Pylons/pyramid_jinja2
 
 
-.. * `pyramid_jqm <http://docs.pylonsproject.org/projects/pyramid_jqm/en/latest/>`_, scaffolding for developing
+.. * `pyramid_jqm </projects/pyramid_jqm/en/latest/>`_, scaffolding for developing
 ..   jQuery Mobile apps with Pyramid.
 
 ..   - Maintained by:  Chris McDonough
@@ -213,6 +221,21 @@ Pylons プロジェクトによって公式にサポートされ、ドキュメ�
   - メンテナー:  Chris McDonough
 
   - バージョン管理: https://github.com/Pylons/pyramid_jqm
+
+
+.. * `pyramid_layout </projects/pyramid_layout/en/latest/>`_: Pyramid add-on 
+..   for managing UI layouts.
+
+..   - Maintained by: Chris Rossi, Paul Everitt, Blaise Laflamme
+
+..   - Version Control: https://github.com/Pylons/pyramid_layout
+
+* `pyramid_layout <http://docs.pylonsproject.org/projects/pyramid_layout/en/latest/>`_ (英語):
+  UI レイアウト管理のための Pyramid add-on。
+
+  - メンテナー: Chris Rossi, Paul Everitt, Blaise Laflamme
+
+  - バージョン管理: https://github.com/Pylons/pyramid_layout
 
 
 .. * `pyramid_ldap </projects/pyramid_ldap/en/latest/>`_, an LDAP authentication
@@ -231,7 +254,7 @@ Pylons プロジェクトによって公式にサポートされ、ドキュメ�
   - バージョン管理: https://github.com/Pylons/pyramid_ldap
 
 
-.. * `pyramid_mailer <http://docs.pylonsproject.org/projects/pyramid_mailer/en/latest/>`_: a package for the
+.. * `pyramid_mailer </projects/pyramid_mailer/en/latest/>`_: a package for the
 ..   Pyramid framework to take the pain out of sending emails.
 
 ..   - Maintained by:  Dan Jacobs, Chris McDonough
@@ -246,11 +269,11 @@ Pylons プロジェクトによって公式にサポートされ、ドキュメ�
   - バージョン管理: https://github.com/Pylons/pyramid_mailer
 
 
-.. * `pyramid_rpc <http://docs.pylonsproject.org/projects/pyramid_rpc/en/latest/>`_: RPC service add-on for
+.. * `pyramid_rpc </projects/pyramid_rpc/en/latest/>`_: RPC service add-on for
 ..   Pyramid, supports XML-RPC in a more extensible manner than `pyramid_xmlrpc`
 ..   with support for JSON-RPC and AMF.
 
-..   - Maintained by: Ben Bangert
+..   - Maintained by: Michael Merickel, Ben Bangert
 
 ..   - Version Control: https://github.com/Pylons/pyramid_rpc
 
@@ -258,12 +281,12 @@ Pylons プロジェクトによって公式にサポートされ、ドキュメ�
   Pyramid の RPC サービスアドオンです。 `pyramid_xmlrpc` より拡張可能な方法で XML-RPC をサポートします。
   JSON-RPC および AMF もサポートしています。
 
-  - メンテナー: Ben Bangert
+  - メンテナー: Michael Merickel, Ben Bangert
 
   - バージョン管理: https://github.com/Pylons/pyramid_rpc
 
 
-.. * `pyramid_tm <http://docs.pylonsproject.org/projects/pyramid_tm/en/latest/>`_: Centralized transaction 
+.. * `pyramid_tm </projects/pyramid_tm/en/latest/>`_: Centralized transaction 
 ..   management for Pyramid applications (without middleware).
 
 ..   - Maintained by: Rocky Burt
@@ -278,7 +301,7 @@ Pylons プロジェクトによって公式にサポートされ、ドキュメ�
   - バージョン管理: https://github.com/Pylons/pyramid_tm
 
 
-.. * `pyramid_who <http://docs.pylonsproject.org/projects/pyramid_who/en/latest/>`_: Authentication policy for 
+.. * `pyramid_who </projects/pyramid_who/en/latest/>`_: Authentication policy for 
 ..   pyramid using repoze.who 2.0 API.
 
 ..   - Maintained by: Chris McDonough, Tres Seaver
@@ -293,7 +316,7 @@ Pylons プロジェクトによって公式にサポートされ、ドキュメ�
   - バージョン管理: https://github.com/Pylons/pyramid_who
 
 
-.. * `pyramid_xmlrpc <http://docs.pylonsproject.org/projects/pyramid_xmlrpc/en/latest/>`_: XML-RPC add-on for
+.. * `pyramid_xmlrpc </projects/pyramid_xmlrpc/en/latest/>`_: XML-RPC add-on for
 ..   Pyramid
 
 ..   - Maintained by: Chris McDonough
@@ -308,7 +331,7 @@ Pylons プロジェクトによって公式にサポートされ、ドキュメ�
   - バージョン管理: https://github.com/Pylons/pyramid_xmlrpc
 
 
-.. * `pyramid_zcml <http://docs.pylonsproject.org/projects/pyramid_zcml/en/latest/>`_: Zope Configuration Markup
+.. * `pyramid_zcml </projects/pyramid_zcml/en/latest/>`_: Zope Configuration Markup
 ..   Language configuration support for Pyramid.
 
 ..   - Maintained by: Chris McDonough
