@@ -91,10 +91,10 @@ Getting Started
 ..   </projects/pyramid_cookbook/en/latest/>`_ presents
 ..   topical, practical usages of Pyramid.  The cookbook is unfinished.
 
-* `Pyramid ドキュメント 1.4 </projects/pyramid-doc-ja/en/1.4-branch/>`_ -
+* `Pyramid ドキュメント 1.4 </projects/pyramid-doc-ja/en/1.4-branch-doc-ja/>`_ -
   Pyramid のマニュアルと API ドキュメント (最新の alpha/beta リリース)。
 
-* `Pyramid ドキュメント 1.3 </projects/pyramid-doc-ja/en/1.3-branch/>`_ -
+* `Pyramid ドキュメント 1.3 </projects/pyramid-doc-ja/en/1.3-branch-doc-ja/>`_ -
   Pyramid のマニュアルと API ドキュメント (現在の安定リリース)。
 
 * `Pyramid documentation 1.2 <http://docs.pylonsproject.org/projects/pyramid/en/1.2-branch/>`_ (英語) -
