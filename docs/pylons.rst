@@ -20,8 +20,5 @@ Pylons ドキュメント
 * `Pylons documentation 1.0 <http://docs.pylonsproject.org/projects/pylons-webframework/en/latest/>`_ (英語):
   公式の Pylons ドキュメント。
 
-* `Pylons wiki <http://wiki.pylonshq.com/dashboard.action>`_ (英語):
-  ユーザの作成した Pylons ドキュメント。
-
 * `Definitive Guide to Pylons <http://pylonsbook.com/>`_ (英語):
   Apress から出版された Pylons 本 (著: James Gardner) のフリー HTML 版。
