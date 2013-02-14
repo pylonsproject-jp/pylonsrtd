@@ -1,54 +1,112 @@
+.. Contributing Source Code and Documentation
+
 .. _contributing:
 
-Contributing Source Code and Documentation
+ソースコードとドキュメンテーションの寄稿
 ==========================================
 
-For substantive contributions to its major projects, The Pylons Project
-requires the following of its contributors:
+.. For substantive contributions to its major projects, The Pylons Project
+.. requires the following of its contributors:
 
-- An assignment of half-ownership of submitted code or documentation for
-  substantive contributions to its official projects.  We require the
-  assignment because we're interested in, eventually, giving the copyright to
-  the code to a foundation.  Obtaining half-ownership of the code makes it
-  possible for us to do this credibly without chasing people for permission
-  to do so when that time comes.
+主要なプロジェクトへの実質的な貢献について、 Pylons プロジェクトでは
+以下のことを貢献者に要求します:
 
-- Assurance that the contributor will not check in incompatibly-licensed
-  code.
 
-- Assurance that the contributor will not allow his submission credentials to
-  be used by a third party who may not agree to the constraints of a
-  contribution agreement.
+.. - An assignment of half-ownership of submitted code or documentation for
+..   substantive contributions to its official projects.  We require the
+..   assignment because we're interested in, eventually, giving the copyright to
+..   the code to a foundation.  Obtaining half-ownership of the code makes it
+..   possible for us to do this credibly without chasing people for permission
+..   to do so when that time comes.
 
-- Assurance that the submitted code does not infringe upon or violate the
-  rights of a third party.
+- その公式プロジェクトに対する実質的な貢献のために提供されたコードまたは
+  ドキュメンテーションの半所有権 (half-ownership) の譲渡。私たちは
+  いずれコードの著作権を財団法人に与えることを考えているので、譲渡を
+  要求しています。コードの半所有権を得ることで、その時が来た場合に
+  私たちが許可を得るために人々を探しまわることなく確実にこれを行える
+  ようにします。
 
-- Assurance that the contributor understands any licensing exceptions local
-  to the repository he is contributing to.
 
-"Signing" a contribution agreement is simple: just add your name and a date
-to the bottom of a "CONTRIBUTORS.txt" file found in the root of the Pylons
-project you'd like to contribute to.  Optimally, this will be done when you
-submit code through GitHub (whether via a pull request from a separate
-repository fork, or by direct push if you have push access to the canonical
-project repository).  Your intent to abide by the contributor agreement is
-signified by your commit to the "CONTRIBUTORS.txt" file with your name and a
-date.
+.. - Assurance that the contributor will not check in incompatibly-licensed
+..   code.
 
-Examples of "substantive" contributions:
+- 貢献者が相容れないライセンスのコードをチェックインしないという保証。
 
-- Submitting a new feature for review.
 
-- Submitting artwork.
+.. - Assurance that the contributor will not allow his submission credentials to
+..   be used by a third party who may not agree to the constraints of a
+..   contribution agreement.
 
-- Submitting a new chapter to documentation.
+- 貢献者が、 contribution agreement (貢献同意書) の制約に同意していない
+  第三者によって彼の submission credentials (提出信任状) が使用されることを
+  認めないという保証。
 
-For bugfixes and other minor contributions, signing the contributor file is
-usually not required.  However, the reviewer of a particular submission is
-the arbiter of whether that submission requires the signing of the
-contributors file.
 
-A sample of the current contributor agreement is reproduced in full below.
+.. - Assurance that the submitted code does not infringe upon or violate the
+..   rights of a third party.
+
+- 提出されたコードが第三者の権利を侵害 (infringe upon or violate)
+  しないという保証。
+
+
+.. - Assurance that the contributor understands any licensing exceptions local
+..   to the repository he is contributing to.
+
+- 貢献者が、自分が貢献しているリポジトリに対してローカルなライセンス
+  例外をすべて理解しているという保証。
+
+
+.. "Signing" a contribution agreement is simple: just add your name and a date
+.. to the bottom of a "CONTRIBUTORS.txt" file found in the root of the Pylons
+.. project you'd like to contribute to.  Optimally, this will be done when you
+.. submit code through GitHub (whether via a pull request from a separate
+.. repository fork, or by direct push if you have push access to the canonical
+.. project repository).  Your intent to abide by the contributor agreement is
+.. signified by your commit to the "CONTRIBUTORS.txt" file with your name and a
+.. date.
+
+貢献同意書への「署名」は単純です: あなたが貢献したい Pylons プロジェクト
+のルートにある "CONTRIBUTORS.txt" ファイルの最後に名前と日付を加えるだけです。
+最も適切なのは、 GitHub でコードを提出する時にこれを行うことです (個別の
+リポジトリフォークからの pull リクエストによって、あるいは正統なプロジェクト
+リポジトリへの push アクセスを持っていれば直接の push によっても)。
+貢献者同意書を遵守するというあなたの意思は、あなたの名前と日付を含む
+"CONTRIBUTORS.txt" ファイルへのコミットによって示されます。
+
+
+.. Examples of "substantive" contributions:
+
+「実質的な」貢献の例:
+
+
+.. - Submitting a new feature for review.
+
+.. - Submitting artwork.
+
+.. - Submitting a new chapter to documentation.
+
+
+- レビューのために新機能を投稿する。
+
+- アートワークを提供する。
+
+- ドキュメントに新たな章を追加する。
+
+
+.. For bugfixes and other minor contributions, signing the contributor file is
+.. usually not required.  However, the reviewer of a particular submission is
+.. the arbiter of whether that submission requires the signing of the
+.. contributors file.
+
+バグ修正その他の小さな貢献については、貢献者ファイルへの署名は通常必要
+ありません。しかし、特定の投稿のレビュアーは、その投稿が寄与者ファイル
+への署名を必要とするかの判断をします。
+
+
+.. A sample of the current contributor agreement is reproduced in full below.
+
+以下に、現在の貢献者同意書のサンプルの全文を掲載します。
+
 
 .. code-block:: rst
 
