@@ -20,9 +20,9 @@ Pylons プロジェクトの一部になろうとするすべてのパッケー�
 "100% テストカバレージ, 100% ドキュメンテーション" 要件に加えて、
 Pyramid アドオンと「開発環境」を作成するための、より特殊ないくつかの
 ガイドラインがあります。 Pylons プロジェクトウェブサイト上の `Pyramid
-アドオン <http://docs.pylonsproject.org/docs/pyramid.html#pyramid-add-ons>`_
+アドオン <http://docs.pylonsproject.jp/en/latest/docs/pyramid.html#id5>`_
 あるいは `開発環境
-<http://docs.pylonsproject.org/docs/pyramid.html#pyramid-development-environment-documentation>`_
+<http://docs.pylonsproject.jp/en/latest/docs/pyramid.html#id7>`_
 のセクションにあなたのアドオンを含めたいと考えるなら、これらのガイドラインを
 厳守すべきです。
 
@@ -119,7 +119,7 @@ Pyramid は、誰でもアドオンを共有できるリポジトリを提供し
 .. http://docs.pylonsproject.org/projects/pyramid/1.0/narr/advconfig.html#adding-methods-to-the-configurator-via-add-directive
 
 そうする代わりに、
-http://docs.pylonsproject.org/projects/pyramid/1.0/narr/advconfig.html#adding-methods-to-the-configurator-via-add-directive
+http://docs.pylonsproject.jp/projects/pyramid-doc-ja/en/latest/narr/extconfig.html#add-directive
 で文書化されるように configurator の ``add_directive`` メソッドを使用し
 てください。
 
@@ -142,7 +142,7 @@ http://docs.pylonsproject.org/projects/pyramid/1.0/narr/advconfig.html#adding-me
 アドオンの ``__init__.py`` の中で ``includeme`` メソッドを提供してください。
 そうすれば、 ``config.include('pyramid_foo')`` はそれを探し出します。
 `外部ソースからの設定インクルード
-<http://docs.pylonsproject.org/projects/pyramid/1.0/narr/advconfig.html#including-configuration-from-external-sources>`_
+<http://docs.pylonsproject.jp/projects/pyramid-doc-ja/en/latest/narr/advconfig.html#including-configuration>`_
 を参照してください。
 
 
