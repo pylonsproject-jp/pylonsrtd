@@ -156,10 +156,10 @@ http://docs.pylonsproject.jp/projects/pyramid-doc-ja/en/latest/narr/extconfig.ht
 .. create -t foo``), for the purposes of uniformity with other "development
 .. environment" packages, we offer some guidelines below.
 
-Pyramid コードベース上に高レベルのフレームワークを作成していて、
-それが他の「開発環境」パッケージとの画一化のために「テンプレート」
-コード (``paster create -t foo`` を通してユーザによって生成される
-スケルトンコード) を含む場合、以下にいくつかのガイドラインを提示します。
+Pyramid コードベース上に高レベルのフレームワークを作成していて、それが
+「テンプレート」コード (``paster create -t foo`` を通してユーザによって
+生成されるスケルトンコード) を含む場合、他の「開発環境」パッケージとの
+統一性のために、いくつかのガイドラインを以下に提示します。
 
 
 .. * It should not be named with a ``pyramid_`` prefix.  For example, instead
