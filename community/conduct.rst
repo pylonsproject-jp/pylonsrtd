@@ -18,8 +18,10 @@ Pylons プロジェクトの開発者は `Ubuntu Code of Conduct
 大変幸いです。
 
 
-(訳注: この文書の翻訳は `Ubuntu 行動規範
-<http://www.ubuntulinux.jp/community/conduct>`_ を参考にしています。)
+(訳注: この文書の翻訳は Ubuntu Japanese Team による `Ubuntu 行動規範
+<http://www.ubuntulinux.jp/community/conduct>`_ を参考にしています。
+この翻訳のライセンスは `クリエイティブ・コモンズ 表示 - 継承 3.0 一般ライセンス
+<http://creativecommons.org/licenses/by-sa/3.0/deed.ja>`_ に従います。)
 
 
 .. Be considerate.
