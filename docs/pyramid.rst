@@ -230,7 +230,7 @@ Pylons プロジェクトによって公式にサポートされ、ドキュメ�
 
 ..   - Version Control: https://github.com/Pylons/pyramid_layout
 
-* `pyramid_layout <http://docs.pylonsproject.org/projects/pyramid_layout/en/latest/>`_ (英語):
+* `pyramid_layout </projects/pyramid_layout-doc-ja/ja/latest/>`_:
   UI レイアウト管理のための Pyramid アドオン。
 
   - メンテナー: Chris Rossi, Paul Everitt, Blaise Laflamme
