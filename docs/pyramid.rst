@@ -109,8 +109,8 @@ Getting Started
 * `Pyramid development documentation <http://docs.pylonsproject.org/projects/pyramid/en/master/>`_ (英語) -
   Pyramid のマニュアルと API ドキュメント (開発中のバージョン)。
 
-* `The Pyramid Tutorials
-  <http://docs.pylonsproject.org/projects/pyramid_tutorials/en/latest/>`_ (英語) には
+* `Pyramid チュートリアル
+  <http://docs.pylonsproject.jp/projects/pyramid_tutorials-doc-ja/en/latest/>`_ には
   Pyramid のチュートリアルが集約されています。
 
 * `The Pyramid Cookbook
